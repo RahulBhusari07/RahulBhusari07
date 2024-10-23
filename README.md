@@ -1,3 +1,4 @@
+![logo](https://github.com/RahulBhusari07/RahulBhusari07/blob/main/banner.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Rahul Bhusari</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
